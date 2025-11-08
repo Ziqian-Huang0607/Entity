@@ -85,4 +85,4 @@ To get a local copy up and running, follow these steps.
 
 ## License
 
-Distributed under the MIT License.
+Distributed under the  GPL-3.0 license.
